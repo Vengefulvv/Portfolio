@@ -7,7 +7,7 @@
 
 /* Basic Styling for All Pages */
 body {
-  font-family: Arial, sans-serif; /* Browser native font */
+  font-family: 'Roboto', sans-serif; /* Imported font */
   line-height: 1.6;
   color: #333;
   background-color: #f4f4f4;
@@ -47,6 +47,8 @@ nav ul li {
   display: inline;
   margin: 0 1rem;
 }
+
+/* Page Specific Styles */
 
 /* Page 1 Specific Styles */
 .page1-header {
